@@ -1,4 +1,4 @@
-package com.lbg.technicaltest.ui.theme
+package com.lbg.technicaltest.view.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
